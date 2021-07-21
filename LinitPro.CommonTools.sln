@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinitPro.CommonTools", "LinitPro.CommonTools\LinitPro.CommonTools.csproj", "{894E394F-FC4B-4D05-8918-E97489EB5C99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E16389A1-D9F6-48E7-BBE3-6DC273DE73F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{77EA3F03-5022-4459-9A1C-9D600E3CADC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinitPro.CommonTools.UnitTests", "tests\LinitPro.CommonTools.UnitTests\LinitPro.CommonTools.UnitTests.csproj", "{3D95DE64-1ABF-49C2-ADF1-9643C413469F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894E394F-FC4B-4D05-8918-E97489EB5C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894E394F-FC4B-4D05-8918-E97489EB5C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894E394F-FC4B-4D05-8918-E97489EB5C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894E394F-FC4B-4D05-8918-E97489EB5C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D95DE64-1ABF-49C2-ADF1-9643C413469F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D95DE64-1ABF-49C2-ADF1-9643C413469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D95DE64-1ABF-49C2-ADF1-9643C413469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D95DE64-1ABF-49C2-ADF1-9643C413469F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D95DE64-1ABF-49C2-ADF1-9643C413469F} = {E16389A1-D9F6-48E7-BBE3-6DC273DE73F8}
+	EndGlobalSection
+EndGlobal
